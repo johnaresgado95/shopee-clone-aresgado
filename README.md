@@ -1,6 +1,6 @@
-# Shopee Clone
+# amazon_clone
 
-A new clone project by John Aresgado.
+A new Flutter project.
 
 ## Getting Started
 
